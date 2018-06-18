@@ -1,5 +1,4 @@
-import org.junit.jupiter.api.Test;
-
+import org.junit.Test;
 
 public class TestComparador {
 
@@ -10,7 +9,7 @@ public class TestComparador {
 
         testeSite.testaCorDisponivel("Azul");
         testeSite.testaNomePdpXnomeCart();
-        testeSite.testaTamanhoDisponivel(33);
+        testeSite.testaTamanhoDisponivel(3);
 
     }
 

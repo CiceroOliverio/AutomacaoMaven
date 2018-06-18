@@ -10,7 +10,7 @@ public class ComparadorTeste {
 
     public ComparadorTeste(){
 
-        tenis.setNomeProdutoCart("AdidasTeste");
+        tenis.setNomeProdutoCart("NikeTeste");
         tenis.setNomeProdutoPdp("NikeTeste");
         tenis.setPercDesconto(35);
         tenis.setPrecoTotalCart(new BigDecimal(5500));
